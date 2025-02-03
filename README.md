@@ -37,6 +37,8 @@ Record a short video of your story to display here on your README. You can do th
 
 Write a description of the story that your animation showcases. Give addional context for your story here in the case your animation is more abstract and only has images and little text. Lastly, include what data in your project is represented in 2D arrays and how those directly relate to the story your animation showcase.
 
+The story my animation showsases is about the team USA men's basketball team and their starters. It shows the team's average points per game and an image of the starters. My 2D arrays have information on the names of the team USA's roster and the average points per game of each player.
+
 ## Image Filter Analysis
 
 Choose at least 2 filters used in your animation to explain how the pixels are modified. If you created a new image filter that was not one of the ones from this unit, make sure to explain and analyze that filter(s) before choosing ones that came from this unit.
